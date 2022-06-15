@@ -1,0 +1,17 @@
+/* #appContainer {
+
+} */
+
+.banner {
+    background-color: rgb(81, 81, 202);
+    height: 20rem;
+}
+
+#profileContainer {
+    display: flex;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
